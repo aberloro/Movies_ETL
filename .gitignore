@@ -1,5 +1,5 @@
 # large files
-Phase1/data/
+/Phase1/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
