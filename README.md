@@ -49,3 +49,7 @@ Work was done in [Phase1](https://github.com/aberloro/Movies_ETL/tree/main/Phase
        - Import larger ratings file as chuncks using .to_sql() and append if exists parameter
 
 ## Databases
+   1. Confirming [6052 rows](https://github.com/aberloro/Movies_ETL/blob/main/Resources/movies_query.png) in the movies database.
+   2. Confirming [26,024,289 rows](https://github.com/aberloro/Movies_ETL/blob/main/Resources/ratings_query.png) in the ratings database. 
+
+
